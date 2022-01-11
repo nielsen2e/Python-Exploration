@@ -1,0 +1,3 @@
+# Python-Exploration
+This is a correlation project for a movie dataset whereby two columns and others were checked to see if there was a positive or negative correlation between to check which of them 
+impacted theother. A bit of data exploration was also one in this project. Check it out...
